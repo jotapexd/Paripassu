@@ -1,1 +1,11 @@
-teste2
+Inicialmente, gostaria de dizer que o Clicq é um sistema muito intuitivo e bonito. Os botões são espaçados, as cores são bem utilizadas, não é algo que faz com que a vista fique cansada, logar no sistema, criar o questionário, editar, excluir, e todas as outras opções existentes, pelo menos nisso que eu vi, é de fato muito simples. E acredito que até para usuários mais leigos,as ações serão feitas de forma muito intuitiva. 
+
+Aos bugs:
+-- Os botôes de CSS não estão funcionando como deveriam;
+    -> Estes botões poderiam possuir um nome mais simples, dado pelo desenvolvedor, para facilitar na hora da automatização dos testes;
+    -> O cursor do botão "Analista de qualidade" não está funcionando corretamente, aparentemente o link não está funcionando bem;
+
+
+A ferramenta:
+-- Escolhi o Selenium IDE por ser simples, fácil de utilizar,grátis não necessitar instalação nenhum software, além do plug-in no navegador, é claro, e na minha opinião, funciona muito bem para ferramentas web.
+  
