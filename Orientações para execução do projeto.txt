@@ -1,5 +1,9 @@
-Para executar o projeto você deve possuir uma ferramenta para automação de testes. Neste caso utilizamos o Selenium Webdriver IDE do Mozilla Firefox.
+Para executar o projeto você deve possuir uma ferramenta de automação de testes. Neste caso utilizamos o Selenium Webdriver IDE do Mozilla Firefox.
 
-O primeiro script da suite é referente ao da tela de login.
+---------
+ -> O Documento com o nome tela_de_login é referente ao script da tela de login.
+ -> O Documento com o nome tela_de_questionarios é referente ao script da tela de criação do questionário.
+ -> O Documento com o nome teste_paripassu é referente ao script da suite de testes, que executará os dois scripts acima.
 
-O segundo script é referente a criação do questionário.
+
+
