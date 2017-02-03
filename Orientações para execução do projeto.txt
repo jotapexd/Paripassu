@@ -9,4 +9,5 @@ Para executar o projeto você deve possuir uma ferramenta de automação de test
 
  -> Colocar a ferramenta no modo "Slow speed"
  -> Iniciar o script de dentro do site do Google.com.br
+ -> Colocar o navegador no modo de navegação anonima, para não pré-gravar informações de login ou senha, e impedir a ferramenta de funcionar.
 
