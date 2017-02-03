@@ -7,5 +7,5 @@ Aos bugs:
 
 
 A ferramenta:
--- Escolhi o Selenium IDE por ser simples, fácil de utilizar,grátis não necessitar instalação nenhum software, além do plug-in no navegador, é claro, e na minha opinião, funciona muito bem para ferramentas web.
+-- Escolhi o Selenium IDE por ser simples, fácil de utilizar,grátis e não necessitar instalação de nenhum software, além do plug-in no navegador, é claro, e na minha opinião, funciona muito bem para ferramentas web.
   
