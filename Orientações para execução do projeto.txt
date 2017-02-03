@@ -1,3 +1,5 @@
+Orientações
+
 Para executar o projeto você deve possuir uma ferramenta de automação de testes. Neste caso utilizamos o Selenium Webdriver IDE do Mozilla Firefox.
 
 ---------
@@ -5,5 +7,6 @@ Para executar o projeto você deve possuir uma ferramenta de automação de test
  -> O Documento com o nome tela_de_questionarios é referente ao script da tela de criação do questionário.
  -> O Documento com o nome teste_paripassu é referente ao script da suite de testes, que executará os dois scripts acima.
 
-
+ -> Colocar a ferramenta no modo "Slow speed"
+ -> Iniciar o script de dentro do site do Google.com.br
 
