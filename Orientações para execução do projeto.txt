@@ -1,1 +1,5 @@
-teste
+Para executar o projeto você deve possuir uma ferramenta para automação de testes. Neste caso utilizamos o Selenium Webdriver IDE do Mozilla Firefox.
+
+O primeiro script da suite é referente ao da tela de login.
+
+O segundo script é referente a criação do questionário.
